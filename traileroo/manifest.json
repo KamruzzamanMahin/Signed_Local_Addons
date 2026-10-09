@@ -9,14 +9,14 @@
   "platform_assets": {
     "windows-x64": {
       "binary_name": "traileroo.exe",
-      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/traileroo-v0.1.0/traileroo.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/traileroo-v0.2.0/traileroo.exe",
       "entry_command": "rpc",
-      "sha256": "c12df66201f175420b1d01fcffbb84fdc13cca0d80d160df034356b0c76bcda3"
+      "sha256": "6a678d8338c0905f3392697ef94f3feac75c5725756b5c50bff4595ebc8420a7"
     }
   },
   "protocol_version": "2.0",
   "publisher": "fearless",
-  "signature": "fKi0tRcPDdGzT+1Cp86zxJmVHrqh5S0ryVgXti3QO1sBvwgDsByunVx+ljp/9lLd+qUoplbKIA6PKBdAsuanCA==",
+  "signature": "bfKpHkQysjyQIGTBx3siT/HQf9W9L0/sHOH0C4Vd7dvVX//Lk8WdGzHmOtA5m7QUmgGuhECJoT+o9kjtZcb5CQ==",
   "type": "local",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

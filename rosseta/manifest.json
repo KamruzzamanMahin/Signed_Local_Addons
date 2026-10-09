@@ -1,0 +1,26 @@
+{
+  "api_key": {
+    "page_url": "https://www.opensubtitles.com/en/consumers",
+    "required": true
+  },
+  "capabilities": [
+    "subtitle"
+  ],
+  "description": "Official OpenSubtitles v3 subtitle provider for Delulu.",
+  "id": "dev.fearless.rosseta",
+  "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/Rosseta.png",
+  "name": "Rosseta",
+  "platform_assets": {
+    "windows-x64": {
+      "binary_name": "rosseta.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/rosseta-v0.1.0/rosseta.exe",
+      "entry_command": "rpc",
+      "sha256": "208e357cb647a0ffbb007495355fea1a754d669f771839e615c1318d8af5c9fa"
+    }
+  },
+  "protocol_version": "2.0",
+  "publisher": "fearless",
+  "signature": "2zBP+Rxv8bVo2WmbNyhsSRHJdyFvcbUO+3wirvEMMLlW8XJtGoqh4JUmiil82jaK2j6Ql7seMGJM2bN4hZThBw==",
+  "type": "local",
+  "version": "0.1.0"
+}

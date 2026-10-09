@@ -1,0 +1,22 @@
+{
+  "capabilities": [
+    "meta"
+  ],
+  "description": "Adds the official IMDb rating and trailers for a TMDB title.",
+  "id": "dev.fearless.traileroo",
+  "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/traileroo/Traileroo.png",
+  "name": "Traileroo",
+  "platform_assets": {
+    "windows-x64": {
+      "binary_name": "traileroo.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/traileroo-v0.1.0/traileroo.exe",
+      "entry_command": "rpc",
+      "sha256": "c12df66201f175420b1d01fcffbb84fdc13cca0d80d160df034356b0c76bcda3"
+    }
+  },
+  "protocol_version": "2.0",
+  "publisher": "fearless",
+  "signature": "fKi0tRcPDdGzT+1Cp86zxJmVHrqh5S0ryVgXti3QO1sBvwgDsByunVx+ljp/9lLd+qUoplbKIA6PKBdAsuanCA==",
+  "type": "local",
+  "version": "0.1.0"
+}

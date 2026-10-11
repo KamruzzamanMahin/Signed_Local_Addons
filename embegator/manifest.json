@@ -1,0 +1,22 @@
+{
+  "capabilities": [
+    "direct_stream"
+  ],
+  "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and embedded captions.",
+  "id": "dev.fearless.embegator",
+  "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/embegator/EmbeGator.png",
+  "name": "EmbeGator",
+  "platform_assets": {
+    "windows-x64": {
+      "binary_name": "embegator.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/embegator-v0.1.0/embegator.exe",
+      "entry_command": "rpc",
+      "sha256": "18381cd82af4632b19e8351b288bf61f5f613a389226409b1bbe0c89bb9cf78f"
+    }
+  },
+  "protocol_version": "2.0",
+  "publisher": "fearless",
+  "signature": "LBGbLKxr7YHmkE3b7sXIZYn2phVwNfnsJ4XvmNx1ncMS5fRl++wtNPt6w+HI567kygX+Wsu70owvnsBPwYWiDQ==",
+  "type": "local",
+  "version": "0.1.0"
+}

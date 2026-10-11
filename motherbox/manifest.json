@@ -1,0 +1,22 @@
+{
+  "capabilities": [
+    "direct_stream"
+  ],
+  "description": "MovieBox stream resolver - direct MP4/HLS playback with browser-free guest auth.",
+  "id": "dev.fearless.motherbox",
+  "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/MotherBox.png",
+  "name": "MotherBox",
+  "platform_assets": {
+    "windows-x64": {
+      "binary_name": "motherbox.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/motherbox-v0.1.0/motherbox.exe",
+      "entry_command": "rpc",
+      "sha256": "7e52eabb7d6a2c34fd72bae72af385ae9285a2f097bda2cbcca267e929b3f9c0"
+    }
+  },
+  "protocol_version": "2.0",
+  "publisher": "fearless",
+  "signature": "6hg035pUZdewz9f0eMxxDRAqLklWFSHHlWmtaP+7WFhG8EAT6w5HTPoN1igQ5Hugf7t5BEVyw73fUjVk8fygBA==",
+  "type": "local",
+  "version": "0.1.0"
+}

@@ -2,21 +2,21 @@
   "capabilities": [
     "direct_stream"
   ],
-  "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality.",
+  "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and multi-language audio tracks.",
   "id": "dev.fearless.motherbox",
   "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/MotherBox.png",
   "name": "MotherBox",
   "platform_assets": {
     "windows-x64": {
       "binary_name": "motherbox.exe",
-      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/motherbox-v0.1.0/motherbox.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/motherbox-v0.2.0/motherbox.exe",
       "entry_command": "rpc",
-      "sha256": "d13b51bc7faf4b8f157ae8b936042c2e5cb72e0979bf63bd5b2c6f792adb30e0"
+      "sha256": "c6d253918a997e0bc5427cb5da12816e35de036877e5af1617766e7f425cbc57"
     }
   },
   "protocol_version": "2.0",
   "publisher": "fearless",
-  "signature": "xBJaGMuPEBFYE3lda8L1NIlfkppluitngS2Y6R1kUBWZPmXd3JKTc4SmdgtEI0aHKvarR4iMoF8GG1Lf4hnNDQ==",
+  "signature": "/eMitAxR/lOKCaw9PHwQzfY7Uzln2L2cvjXsHUiNzUtfqudqJDIKJnFc2tm2WssepsLzqcXv6bGzvFb5NSsABQ==",
   "type": "local",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

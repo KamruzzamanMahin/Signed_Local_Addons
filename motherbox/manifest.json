@@ -9,14 +9,14 @@
   "platform_assets": {
     "windows-x64": {
       "binary_name": "motherbox.exe",
-      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/motherbox-v0.2.0/motherbox.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/motherbox-v0.3.0/motherbox.exe",
       "entry_command": "rpc",
-      "sha256": "c6d253918a997e0bc5427cb5da12816e35de036877e5af1617766e7f425cbc57"
+      "sha256": "93e2ab5d90c9368f3dc7e0b0ab58c5d817afe1366349b51c92dace17ab5bd710"
     }
   },
   "protocol_version": "2.0",
   "publisher": "fearless",
-  "signature": "/eMitAxR/lOKCaw9PHwQzfY7Uzln2L2cvjXsHUiNzUtfqudqJDIKJnFc2tm2WssepsLzqcXv6bGzvFb5NSsABQ==",
+  "signature": "MbFC4+xULRCfd8TJaPtqztDbpBjagaKf2joWTFdIVGPEjzXe0HxtGq3sl4pNRUTimZkDcYycbZDSRVXH0OOhAg==",
   "type": "local",
-  "version": "0.2.0"
+  "version": "0.3.0"
 }

@@ -1,0 +1,22 @@
+{
+  "capabilities": [
+    "direct_stream"
+  ],
+  "description": "Direct stream and Fast Cloud resolver for movies and TV with 4K/1080p multi-audio streams and subtitles.",
+  "id": "dev.fearless.elf",
+  "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/elf/Elf.png",
+  "name": "Elf",
+  "platform_assets": {
+    "windows-x64": {
+      "binary_name": "elf.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/elf-v0.3.0/elf.exe",
+      "entry_command": "rpc",
+      "sha256": "e06e240f52d1f9d5194d0d440d1700fe5b2721badeb957e54c86b79437e9e0e4"
+    }
+  },
+  "protocol_version": "2.0",
+  "publisher": "fearless",
+  "signature": "/HLCqTK2vY23+9EAJtw/z4yv3AhQFhs2fcxlR5el7/xgWc1Vwj4mps0onRJ1fujGYF9cdJeWM46zUoo2m3doDQ==",
+  "type": "local",
+  "version": "0.3.0"
+}

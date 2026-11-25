@@ -13,14 +13,14 @@
   "platform_assets": {
     "windows-x64": {
       "binary_name": "rosseta.exe",
-      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/rosseta-v0.3.0/rosseta.exe",
+      "download_url": "https://github.com/KamruzzamanMahin/Signed_Local_Addons/releases/download/rosseta-v0.3.1/rosseta.exe",
       "entry_command": "rpc",
-      "sha256": "eafdc5c66a291f77a17b19d479cb694e68ea587b306aefade6f6051d1c083317"
+      "sha256": "c408f8d1c181763ef4f119e11f7da70593e06cd6a8c30de269b82ede10023789"
     }
   },
   "protocol_version": "2.0",
   "publisher": "fearless",
-  "signature": "pxU0XaF52PkLRhjPSKKS8CrNjMH467E5dGTWteYjEkLZPbyVSetLxEdbi3QoXeN6OJMDMFWbFYNRufYwz8BeDQ==",
+  "signature": "GKMX90AlZFxX0lyxFewWvkRJVxkkOUflwLyu0+i/dAYGbvS1p2T76RpbIy2qdhm7Kk1lPj/Q5/jb7j783ezOAw==",
   "type": "local",
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
